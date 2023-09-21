@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DBCleaner": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

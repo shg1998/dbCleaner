@@ -1,0 +1,11 @@
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DBCleaner.deps.json
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DBCleaner.runtimeconfig.json
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DBCleaner.exe
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DataBasesInformation.json
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DBCleaner.dll
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\System.Data.SqlClient.dll
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\bin\Debug\DBCleaner.pdb
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner\obj\Debug\docker-compose.dcproj.CopyComplete

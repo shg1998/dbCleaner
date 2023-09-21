@@ -1,0 +1,36 @@
+{
+  "ConnectionString": "Data Source=localhost,1433;TrustServerCertificate=True;User ID=sa;Password=Password@123321",
+  "frequncy": {
+    "days": "0",
+    "hours": "0",
+    "minutes": "10",
+    "seconds": "5",
+    "milliseconds": "0"
+  },
+  "dataBaseInformationModels": [
+    {
+      "databaseName": "central_db_in_hospital",
+      "timespanRemoveData": {
+        "days": "0",
+        "hours": "0",
+        "minutes": "10",
+        "seconds": "0",
+        "milliseconds": "0"
+      },
+      "tableAndFields": [
+        {
+          "TableName": "Parameters",
+          "FieldName": "DateTime"
+        },
+        {
+          "TableName": "EcgSignals",
+          "FieldName": "DateTime"
+        },
+        {
+          "TableName": "Alarms",
+          "FieldName": "DateTime"
+        }
+      ]
+    }
+  ]
+}

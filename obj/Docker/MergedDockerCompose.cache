@@ -1,0 +1,12 @@
+name: dockercompose5206726061091386766
+services:
+  dbcleaner:
+    build:
+      context: G:\Projects\1402\05-26\DbCleaner\09-30\dbcleaner\DBCleaner
+      dockerfile: Dockerfile
+    image: dbcleaner
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose5206726061091386766_default
